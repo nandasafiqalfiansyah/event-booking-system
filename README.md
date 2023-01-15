@@ -9,7 +9,7 @@ sistem pemesanan event
 
   <h2 align="center">sistem-pemesanan-event</h2>
 
-  create a sistem-pemesanan-event using Html, Css, and javascript. We create Dino game html code and then css code and for the dino game functionally we use javascript code.
+  create a sistem-pemesanan-event using Html, Css, and javascript. We create sistem-pemesanan-event html code and then css code and for the sistem-pemesanan-event functionally we use javascript code.
 
   <a href="https://nandasafiqalfiansyah.github.io/sistem-pemesanan-event/"><strong>➥ Live Demo</strong></a>
 
